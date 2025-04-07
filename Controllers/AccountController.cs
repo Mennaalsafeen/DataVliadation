@@ -6,7 +6,7 @@ namespace DataValidationProject.Controllers
 {
     public class AccountController : Controller
     {
-        // GET: /Account/Login
+        
         [HttpGet]
         public IActionResult Login()
         {
